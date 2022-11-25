@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 800,
+      "comment": "Alphanso",
+      "date": "2022-06-21T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Kashmiri Apple.",
+      "date": "2022-06-20T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "One Plus",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 15000,
+      "comment": "One Plus 7 Pro",
+      "date": "2022-06-28T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Brinjal",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 20,
+      "comment": "Sabji",
+      "date": "2022-06-28T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Tamatar",
+      "date": "2022-06-16T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
